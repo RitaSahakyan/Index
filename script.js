@@ -1,4 +1,4 @@
-let cart = [];
+let cart = [];//"Variable Cart that is array"
 
 function loadProducts() {
   fetch('product.json') 
